@@ -25,7 +25,7 @@ header {
 main {
     padding: 0% 5%;
 }
-main > p, ul, ol {
+main > p {
     text-align: justify;
 }
 header>h1{
