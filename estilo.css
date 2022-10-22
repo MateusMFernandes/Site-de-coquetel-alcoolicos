@@ -5,7 +5,7 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 :root {
-    --cor0: #f1721726;
+    --cor0: #dca901;
     --cor1: #280315;
     --cor2: #420c24;
     --cor3: #5f0823;
@@ -39,7 +39,7 @@ header>p {
 h1 { 
     font-size: 30px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: var(--cor1);
+    color: var(--cor0);
     padding: 1px 0px;
 }
 p {
